@@ -2,7 +2,6 @@
 
 * :mortar_board: Graduada em Tecnologia da Informação - Fatec Jundiaí.
 * :memo: Cursando Ciência da Computação - UNOPAR.
-* :keyboard: Desenvolvendo projetos em JavaScript e TypeScript.
 * :computer: Trabalho na área de análise de dados.
 
 ##
